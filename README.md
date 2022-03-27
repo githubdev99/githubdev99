@@ -1,4 +1,4 @@
-## Hi there, I'm Devan Firmansyah Ramadhan <img src="assets/Hi.gif" width="29px">
+## Hi there, I'm Devan Firmansyah Ramadhan <img src="assets/hi.gif" width="29px">
 
 Find out more about me & feel free to connect with me.
 
