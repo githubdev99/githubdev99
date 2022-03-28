@@ -22,6 +22,16 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
   <code>
+    <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://konsultanitbandung.net/wp-content/uploads/2020/09/codeigniter-icon-512.png" alt="codeigniter">
+    </a>
+  </code>
+  <code>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel">
+    </a>
+  </code>
+  <code>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase">
     </a>
