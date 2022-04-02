@@ -17,6 +17,11 @@ Find out more about me & feel free to connect with me.
     </a>
   </code>
   <code>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react.js">
+    </a>
+  </code>
+  <code>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php">
     </a>
