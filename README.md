@@ -3,7 +3,7 @@
 Find out more about me & feel free to connect with me.
 
 [![Gmail Badge](https://img.shields.io/badge/-devanramadhan92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devanramadhan92@gmail.com)](mailto:devanramadhan92@gmail.com) <p>
-  <strong>Languages and Tools:</strong>
+  <strong>Languages, Frameworks and Tools:</strong>
 </p>
 <p>
   <code>
