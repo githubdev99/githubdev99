@@ -1,3 +1,9 @@
+<style>
+    tr, td, th {
+        border: none !important;
+    }
+</style>
+
 <p align="center"><img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/header.png"></p>
 
@@ -7,14 +13,18 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
-    </div>
-    <div style="display: inline-block;">
-        <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
-    </div>
-</div>
+<p align="center">
+    <table border="0" style="width: 100%; border: 0px;">
+        <tr>
+            <td>
+                <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
+            </td>
+            <td>
+                <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
+            </td>
+        </tr>
+    </table>
+</p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-light"></p>
 
 ### 🛠 &nbsp;Tech Stack
