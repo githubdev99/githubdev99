@@ -15,7 +15,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![CodeIgniter](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/stargazers)&nbsp;
+![CodeIgniter](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Star&maxAge=2592000)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
