@@ -34,8 +34,8 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/devan-firmansyah-ramadhan-aaba4a10a/"><img src="https://img.shields.io/badge/-Devan%20Firmansyah%20Ramadhan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:devanramadhan92@gmail.com"><img src="https://img.shields.io/badge/-devanramadhan92@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devan-firmansyah-ramadhan-aaba4a10a/" target="_blank"><img src="https://img.shields.io/badge/-Devan%20Firmansyah%20Ramadhan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devanramadhan92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-devanramadhan92@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
