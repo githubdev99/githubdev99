@@ -7,7 +7,7 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
     </div>
