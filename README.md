@@ -7,8 +7,8 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
-<center>
-    <table border="0" style="width: 100%;">
+<p align="center">
+    <table border="0" style="width: 100%; border: 0px;">
         <tr>
             <td>
                 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>    
@@ -18,7 +18,7 @@
             </td>
         </tr>
     </table>
-</center>
+</p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-light"></p>
 
 ### 🛠 &nbsp;Tech Stack
