@@ -2,6 +2,10 @@
     tr, td, th {
         border: none !important;
     }
+    
+    .markdown-body table td {
+        border: none !important;
+    }
 </style>
 
 <p align="center"><img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/cover-thompson.png"></p>
