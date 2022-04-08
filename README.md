@@ -7,17 +7,19 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
-<table border="0" style="width: 100%;">
-    <tr>
-        <td>
-            <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>    
-        </td>
-        <td>
-            <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
-        </td>
-    </tr>
-</table>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-dark"></p>
+<center>
+    <table border="0" style="width: 100%;">
+        <tr>
+            <td>
+                <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>    
+            </td>
+            <td>
+                <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
+            </td>
+        </tr>
+    </table>
+</center>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-light"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
