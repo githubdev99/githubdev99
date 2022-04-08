@@ -1,71 +1,39 @@
-## Hi there, I'm Devan Firmansyah Ramadhan <img src="assets/hi.gif" width="29px">
+<p align="center"><img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/header.png"></p>
 
-Find out more about me & feel free to connect with me.
+<h1 align="center">Hi there, I'm Devan Firmansyah Ramadhan <img src="https://raw.githubusercontent.com/githubdev99/githubdev99/master/Hi.gif" width="30px"></h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-devanramadhan92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devanramadhan92@gmail.com)](mailto:devanramadhan92@gmail.com) <p>
-  <strong>Languages, Frameworks and Tools:</strong>
-</p>
-<p>
-  <code>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
-    </a>
-  </code>
-  <code>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="javascript">
-    </a>
-  </code>
-  <code>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react.js">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php">
-    </a>
-  </code>
-  <code>
-    <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://konsultanitbandung.net/wp-content/uploads/2020/09/codeigniter-icon-512.png" alt="codeigniter">
-    </a>
-  </code>
-  <code>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel">
-    </a>
-  </code>
-  <code>
-    <a href="https://wordpress.com/id/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress">
-    </a>
-  </code>
-  <code>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase">
-    </a>
-  </code>
-  <code>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/id/thumb/a/a9/MySQL.png/300px-MySQL.png" alt="mysql">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman">
-    </a>
-  </code>
-  <code>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="git">
-    </a>
-  </code>
+<p align="center" width="150px">I am a web developer who really loves programming, I love learning about new technologies and always have a passion for web development. Don't give up and think positive that's me. I am rational as well as have the ability to control my personal feelings in all conditions</p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-dark"></p>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/devan-firmansyah-ramadhan-aaba4a10a/"><img src="https://img.shields.io/badge/-Devan%20Firmansyah%20Ramadhan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devanramadhan92@gmail.com"><img src="https://img.shields.io/badge/-devanramadhan92@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=githubdev99)
+---
+Credit: [githubdev99](https://github.com/githubdev99/)
