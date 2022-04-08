@@ -10,10 +10,10 @@
 <p align="center">
     <table border="0" style="width: 100%; border: 0px;">
         <tr>
-            <td>
+            <td style="border: 0px;">
                 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>    
             </td>
-            <td>
+            <td style="border: 0px;">
                 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
             </td>
         </tr>
