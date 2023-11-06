@@ -5,22 +5,6 @@
 
 <p align="center" width="150px">I am a web developer who really loves programming, I love learning about new technologies and always have a passion for web development. Don't give up and think positive that's me. I am rational as well as have the ability to control my personal feelings in all conditions</p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bgithubdev99%7D/count.svg" alt="visitor badge"/></p>
-<p align="center">
-    <table border="0" style="width: 100%; border: 0px;">
-        <tr>
-            <td>
-                <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubdev99&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
-            </td>
-            <td>
-                <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=githubdev99&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p>
-            </td>
-        </tr>
-    </table>
-</p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=githubdev99&theme=chartreuse-light"></p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
